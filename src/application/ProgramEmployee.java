@@ -28,6 +28,7 @@ public class ProgramEmployee {
 		
 		System.out.println("Update data: " + employee.toString());
 
+		sc.close();
 	}
 
 }
